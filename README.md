@@ -30,7 +30,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/ToDoApp.git
+git clone https://github.com/Kobikrishna52/ToDoApp.git
 Navigate to the project directory:
 
 bash
